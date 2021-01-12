@@ -1,0 +1,122 @@
+[
+  {
+    "name_category": "Pria",
+    "sub_categories": [
+      {
+        "name_sub_category": "Atasan",
+        "item_sub_categories": [
+          { "name_item_sub_category": "Jas" },
+          { "name_item_sub_category": "Polo" },
+          { "name_item_sub_category": "Kemeja" },
+          { "name_item_sub_category": "Jaket" },
+          { "name_item_sub_category": "Kaos" }
+        ]
+      },
+      {
+        "name_sub_category": "Celana Panjang",
+        "item_sub_categories": [
+          { "name_item_sub_category": "Formal" },
+          { "name_item_sub_category": "Cargo" },
+          { "name_item_sub_category": "Chino" },
+          { "name_item_sub_category": "Jogger" }
+        ]
+      },
+      {
+        "name_sub_category": "Jeans",
+        "item_sub_categories": [
+          { "name_item_sub_category": "Jaket" },
+          { "name_item_sub_category": "Kemeja" }
+        ]
+      },
+      {
+        "name_sub_category": "Pakaian Dalam",
+        "item_sub_categories": [
+          { "name_item_sub_category": "Kaos Dalam" },
+          { "name_item_sub_category": "Boxer" },
+          { "name_item_sub_category": "Celana Dalam" }
+        ]
+      }
+    ]
+  },
+  {
+    "name_category": "Wanita",
+    "sub_categories": [
+      {
+        "name_sub_category": "Atasan",
+        "item_sub_categories": [
+          { "name_item_sub_category": "Big size" },
+          { "name_item_sub_category": "Blouse" },
+          { "name_item_sub_category": "Kemeja" },
+          { "name_item_sub_category": "Tank Top" },
+          { "name_item_sub_category": "Crop Top" },
+          { "name_item_sub_category": "Kaos" }
+        ]
+      },
+      {
+        "name_sub_category": "Outerware",
+        "item_sub_categories": [
+          { "name_item_sub_category": "Blazer" },
+          { "name_item_sub_category": "Kardigan" },
+          { "name_item_sub_category": "Mantel" },
+          { "name_item_sub_category": "Jaket" },
+          { "name_item_sub_category": "Sweater" },
+          { "name_item_sub_category": "Rompi" },
+          { "name_item_sub_category": "Cape" }
+        ]
+      },
+      {
+        "name_sub_category": "Dress",
+        "item_sub_categories": [
+          { "name_item_sub_category": "A Line Dress" },
+          { "name_item_sub_category": "Bodycon Dress" },
+          { "name_item_sub_category": "Casual Dress" },
+          { "name_item_sub_category": "Party Dress" },
+          { "name_item_sub_category": "Wedding Dress" },
+          { "name_item_sub_category": "Maxi Dress" }
+        ]
+      },
+      {
+        "name_sub_category": "Jeans",
+        "item_sub_categories": []
+      },
+      {
+        "name_sub_category": "Rok",
+        "item_sub_categories": [
+          { "name_item_sub_category": "Rok Big Size" },
+          { "name_item_sub_category": "Midi Skirt" },
+          { "name_item_sub_category": "Maxi Skirt" },
+          { "name_item_sub_category": "Mini Skirt" },
+          { "name_item_sub_category": "Pencil Skirt" },
+          { "name_item_sub_category": "Flare" }
+        ]
+      }
+    ]
+  },
+  {
+    "name_category": "Anak-Anak",
+    "sub_categories": []
+  },
+  {
+    "name_category": "Uniseks",
+    "sub_categories": [
+      {
+        "name_sub_category": "Baju",
+        "item_sub_categories": [
+          { "name_item_sub_category": "Kemeja" },
+          { "name_item_sub_category": "Kaos" },
+          { "name_item_sub_category": "Batik" },
+          { "name_item_sub_category": "Polo" }
+        ]
+      },
+      {
+        "name_sub_category": "Celana",
+        "item_sub_categories": [
+          { "name_item_sub_category": "Celana Jeans" },
+          { "name_item_sub_category": "Celana Pendek" },
+          { "name_item_sub_category": "Celana Kain" },
+          { "name_item_sub_category": "Celana Bahan" }
+        ]
+      }
+    ]
+  }
+]

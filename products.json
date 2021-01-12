@@ -1,0 +1,117 @@
+[
+  {
+    "variant": {
+      "va1_items": [
+        {
+          "va1_price": 75000,
+          "va1_stock": 1,
+          "va1_code": "1271521-899-SM",
+          "va1_barcode": "889362033471"
+        }
+      ]
+    },
+    "product_data": {
+      "name": "KEMEJA LAPANGAN / KEMEJA PDL / KEMEJA OUTDOOR",
+      "desc": "aaaaaaaaaaaaaaaaaaaa",
+      "condition": true,
+      "weight": 500,
+      "preorder": null,
+      "item_sub_category_id": 3,
+      "brand_id": 1
+    }
+  },
+  {
+    "variant": {
+      "va1_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "39",
+          "va1_price": 217000,
+          "va1_stock": 1
+        },
+        {
+          "va1_option": "43",
+          "va1_price": 220000,
+          "va1_stock": 1
+        }
+      ]
+    },
+    "product_data": {
+      "name": "PAULMAY Sepatu Formal Pria Modena 01 - Hitam",
+      "desc": "aaaaaaaaaaaaaaaaaaaa",
+      "condition": false,
+      "weight": 1000,
+      "preorder": 20,
+      "item_sub_category_id": 1,
+      "brand_id": null
+    }
+  },
+  {
+    "variant": {
+      "va1_name": "Ukuran",
+      "va2_name": "Warna",
+      "va1_items": [
+        {
+          "va1_option": "64GB",
+          "va2_items": [
+            {
+              "va2_option": "Hitam",
+              "va2_price": 7075000,
+              "va2_stock": 2
+            },
+            {
+              "va2_option": "Red",
+              "va2_price": 7075000,
+              "va2_stock": 2
+            }
+          ]
+        },
+        {
+          "va1_option": "256GB",
+          "va2_items": [
+            {
+              "va2_option": "Hitam",
+              "va2_price": 8175000,
+              "va2_stock": 2
+            },
+            {
+              "va2_option": "Red",
+              "va2_price": 8175000,
+              "va2_stock": 2
+            }
+          ]
+        }
+      ]
+    },
+    "product_data": {
+      "name": "IPHONE XR ",
+      "desc": "aaaaaaaaaaaaaaaaaaaa",
+      "condition": true,
+      "weight": 500,
+      "preorder": null,
+      "item_sub_category_id": 2,
+      "brand_id": null
+    }
+  },
+  {
+    "variant": {
+      "va1_items": [
+        {
+          "va1_price": 11000,
+          "va1_stock": 0,
+          "va1_code": "1271521-899-SM",
+          "va1_barcode": "889362033471"
+        }
+      ]
+    },
+    "product_data": {
+      "name": "iphone XR Tempered Glass Anti Spy for privacy",
+      "desc": "aaaaaaaaaaaaaaaaaaaa",
+      "condition": false,
+      "weight": 2,
+      "preorder": null,
+      "item_sub_category_id": 1,
+      "brand_id": null
+    }
+  }
+]
