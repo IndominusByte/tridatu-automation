@@ -30,8 +30,13 @@
           "va1_stock": 1
         },
         {
-          "va1_option": "43",
-          "va1_price": 220000,
+          "va1_option": "40",
+          "va1_price": 370000,
+          "va1_stock": 10
+        },
+        {
+          "va1_option": "41",
+          "va1_price": 124000,
           "va1_stock": 1
         }
       ]
@@ -68,6 +73,21 @@
         },
         {
           "va1_option": "256GB",
+          "va2_items": [
+            {
+              "va2_option": "Hitam",
+              "va2_price": 8175000,
+              "va2_stock": 2
+            },
+            {
+              "va2_option": "Red",
+              "va2_price": 8175000,
+              "va2_stock": 2
+            }
+          ]
+        },
+        {
+          "va1_option": "512GB",
           "va2_items": [
             {
               "va2_option": "Hitam",

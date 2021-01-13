@@ -84,7 +84,7 @@ def create_products(ticket: str, product_data: dict):
     product_data['ticket_variant'] = ticket
     files = [("image_product", (f"{x}.jpeg", open(f'images/{x}.jpeg','rb'),"image/jpeg")) for x in range(1,6)]
     if product_data['name'] == 'PAULMAY Sepatu Formal Pria Modena 01 - Hitam' or product_data['name'] == 'IPHONE XR ':
-        [files.append(("image_variant", (f"{x}.jpeg", open(f'images/{x}.jpeg','rb'),"image/jpeg"))) for x in range(1,3)]
+        [files.append(("image_variant", (f"{x}.jpeg", open(f'images/{x}.jpeg','rb'),"image/jpeg"))) for x in range(1,4)]
 
     res = session.post(url,
         data=product_data,
