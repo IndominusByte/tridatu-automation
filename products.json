@@ -40,6 +40,7 @@
       "brand_id": 1,
       "video": "https://www.youtube.com/embed/hT_nvWreIhg",
       "image_product": ["1.jpeg","2.jpeg","3.jpeg","4.jpeg"],
+      "image_variant": [],
       "image_size_guide": "size-guide.jpg"
     }
   },
