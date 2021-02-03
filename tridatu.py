@@ -4,117 +4,121 @@ from rich.console import Console
 
 console = Console()
 
-base_address = "http://{}:{}".format(input("Input your ip address: "),input("Input your port: "))
-session = requests.Session()
-csrf_access_token = None
+class Automation:
+    def __init__(self,base_address: str):
+        self.session = requests.Session()
+        self.base_address = base_address
+        self.csrf_access_token = None
+        self.time_sleep = 0.1
 
-def login(email: str = 'user@example.com', password: str = 'string'):
-    global csrf_access_token
-    url = base_address + '/users/login'
-    res = session.post(url, json={'email': email, 'password': password})
-    csrf_access_token = session.cookies['csrf_access_token']
-    console.log('[green]login complete[/green], message: {}'.format(res.json()['detail']))
-    sleep(1)
+    def login(self,email: str = 'user@example.com', password: str = 'string') -> None:
+        url = self.base_address + '/users/login'
+        res = self.session.post(url,json={'email': email, 'password': password})
+        self.csrf_access_token = self.session.cookies['csrf_access_token']
+        console.log('[green]login complete[/green], message: {}'.format(res.json()['detail']))
+        sleep(self.time_sleep)
 
-def create_brands(name_brand: str = 'nike'):
-    url = base_address + '/brands/create'
-    res = session.post(url,
-        files={'file': open('images/1.jpeg','rb')},
-        data={'name': name_brand},
-        headers={'X-CSRF-TOKEN': csrf_access_token}
-    )
-    console.log('[green]brand complete[/green], message: {}'.format(res.json()['detail']))
-    sleep(1)
-
-def create_categories(name_cat: str) -> int:
-    # create categories
-    url = base_address + '/categories/create'
-    res = session.post(url, json={'name': name_cat},headers={'X-CSRF-TOKEN': csrf_access_token})
-    console.log('[green]categories [blue]{}[/blue] complete[/green], message: {}'.format(name_cat,res.json()['detail']))
-    sleep(1)
-    # get categories id
-    url = base_address + '/categories/all-categories'
-    res = session.get(url + '?with_sub=false')
-    return [x for x in res.json() if x['categories_name'] == name_cat][0]['categories_id']
-
-def create_sub_categories(id_cat: int, name_sub_cat: str):
-    # create sub categories
-    url = base_address + '/sub-categories/create'
-    res = session.post(url,
-        json={'name': name_sub_cat, 'category_id': id_cat},
-        headers={'X-CSRF-TOKEN': csrf_access_token}
-    )
-    console.log('[green]sub-categories [blue]{}[/blue] complete[/green], message: {}'.format(
-        name_sub_cat,res.json()['detail'])
-    )
-    sleep(1)
-    # get sub categories id
-    url = base_address + '/categories/all-categories?with_sub=true'
-    res = session.get(url)
-    return [
-        x for x in res.json() if x['sub_categories_name'] == name_sub_cat and x['categories_id'] == id_cat
-    ][0]['sub_categories_id']
-
-def create_item_sub_categories(id_sub_cat: int, name_item_sub: str):
-    # create item sub
-    url = base_address + '/item-sub-categories/create'
-    res = session.post(url,
-        json={'name': name_item_sub, 'sub_category_id': id_sub_cat},
-        headers={'X-CSRF-TOKEN': csrf_access_token}
-    )
-    console.log(
-        '[green]item-sub-categories [blue]{}[/blue] complete[/green], message: {}'.format(
-            name_item_sub,res.json()['detail'])
-    )
-    sleep(1)
-
-def create_variants(variant_data: dict, name_product: str) -> str:
-    url = base_address + '/variants/create-ticket'
-    res = session.post(url, json=variant_data, headers={'X-CSRF-TOKEN': csrf_access_token})
-    console.log(
-        '[green]variants [blue]{}[/blue] complete[/green], message: {}'.format(
-            name_product,res.json().get('detail') or res.json().get('ticket')
+    def create_brands(self,name: str, file: str) -> None:
+        url = self.base_address + '/brands/create'
+        res = self.session.post(url,
+            files={'file': open(f'images/brand/{file}','rb')},
+            data={'name': name},
+            headers={'X-CSRF-TOKEN': self.csrf_access_token}
         )
-    )
-    sleep(1)
-    return res.json().get('ticket')
+        console.log('[green]brand [blue]{}[/blue] complete[/green], message: {}'.format(name,res.json()['detail']))
+        sleep(self.time_sleep)
 
-def create_products(ticket: str, product_data: dict):
-    url = base_address + '/products/create'
-    product_data['ticket_variant'] = ticket
-    files = [("image_product", (f"{x}.jpeg", open(f'images/{x}.jpeg','rb'),"image/jpeg")) for x in range(1,6)]
-    if product_data['name'] == 'PAULMAY Sepatu Formal Pria Modena 01 - Hitam' or product_data['name'] == 'IPHONE XR ':
-        [files.append(("image_variant", (f"{x}.jpeg", open(f'images/{x}.jpeg','rb'),"image/jpeg"))) for x in range(1,4)]
+    def create_categories(self,name: str) -> int:
+        # create categories
+        url = self.base_address + '/categories/create'
+        res = self.session.post(url,json={'name': name},headers={'X-CSRF-TOKEN': self.csrf_access_token})
+        console.log('[green]categories [blue]{}[/blue] complete[/green], message: {}'.format(name,res.json()['detail']))
+        sleep(self.time_sleep)
+        url = self.base_address + '/categories/all-categories'
+        res = self.session.get(url + '?with_sub=false')
+        return [x for x in res.json() if x['categories_name'] == name][0]['categories_id']
 
-    res = session.post(url,
-        data=product_data,
-        files=files,
-        headers={'X-CSRF-TOKEN': csrf_access_token}
-    )
-    console.log(
-        '[green]products [blue]{}[/blue] complete[/green], message: {}'.format(product_data['name'],res.json()['detail'])
-    )
-    sleep(1)
+    def create_sub_categories(self,id_cat: int, name: str) -> int:
+        # create sub categories
+        url = self.base_address + '/sub-categories/create'
+        res = self.session.post(url,json={'name': name, 'category_id': id_cat},headers={'X-CSRF-TOKEN': self.csrf_access_token})
+        console.log('[green]sub-categories [blue]{}[/blue] complete[/green], message: {}'.format(name,res.json()['detail']))
+        sleep(self.time_sleep)
+        # get sub categories id
+        url = self.base_address + '/categories/all-categories?with_sub=true'
+        res = self.session.get(url)
+        return [x for x in res.json() if x['sub_categories_name'] == name and x['categories_id'] == id_cat][0]['sub_categories_id']
+
+    def create_item_sub_categories(self,id_sub_cat: int, name: str) -> None:
+        # create item sub
+        url = self.base_address + '/item-sub-categories/create'
+        res = self.session.post(url,json={'name': name, 'sub_category_id': id_sub_cat},headers={'X-CSRF-TOKEN': self.csrf_access_token})
+        console.log('[green]item-sub-categories [blue]{}[/blue] complete[/green], message: {}'.format(name,res.json()['detail']))
+        sleep(self.time_sleep)
+
+    def create_variants(self,variant_data: dict, name_product: str) -> str:
+        url = self.base_address + '/variants/create-ticket'
+        res = self.session.post(url,json=variant_data,headers={'X-CSRF-TOKEN': self.csrf_access_token})
+        console.log(
+            '[green]variants [blue]{}[/blue] complete[/green], message: {}'.format(
+                name_product,res.json().get('detail') or res.json().get('ticket')
+            )
+        )
+        sleep(self.time_sleep)
+        return res.json().get('ticket')
+
+    def create_wholesale(self,items: list, variant: str, name_product: str) -> str:
+        url = self.base_address + '/wholesale/create-ticket'
+        res = self.session.post(url,json={'variant': variant,'items': items},headers={'X-CSRF-TOKEN': self.csrf_access_token})
+        console.log(
+            '[green]wholesale [blue]{}[/blue] complete[/green], message: {}'.format(
+                name_product,res.json().get('detail') or res.json().get('ticket')
+            )
+        )
+        sleep(self.time_sleep)
+        return res.json().get('ticket')
+
+    def create_products(self,**kwargs) -> None:
+        data = {key:value for key,value in kwargs['product_data'].items() if key not in ['image_product','image_variant','image_size_guide']}
+
+        files = list()
+        [
+            files.append(("image_product", (f"{x}", open(f"images/products/{x}",'rb'),"image/jpeg")))
+            for x in kwargs['product_data']['image_product']
+        ]
+        [
+            files.append(("image_variant", (f"{x}", open(f"images/products/{x}",'rb'),"image/jpeg")))
+            for x in kwargs['product_data']['image_variant']
+        ]
+        if image_size_guide := kwargs['product_data']['image_size_guide']:
+            files.append(("image_size_guide", (f"{image_size_guide}", open(f"images/{image_size_guide}",'rb'),"image/jpeg")))
+
+        data.update({'ticket_variant': self.create_variants(kwargs['variant'],data['name'])})
+        data.update({
+            'ticket_wholesale': self.create_wholesale(kwargs['wholesale']['items'],data['ticket_variant'],data['name'])
+            if len(kwargs['wholesale']['items']) > 0 else None
+        })
+
+        url = self.base_address + '/products/create'
+        res = self.session.post(url,data=data,files=files,headers={'X-CSRF-TOKEN': self.csrf_access_token})
+        console.log('[green]products [blue]{}[/blue] complete[/green], message: {}'.format(data['name'],res.json()['detail']))
+        sleep(self.time_sleep)
 
 
 if __name__ == '__main__':
+    base_address = "http://{}:8000".format(input("Input your ip address: "))
+
     with console.status("[bold green]Working on tasks...") as status:
-        login()
-        create_brands()
+        automate = Automation(base_address=base_address)
+        automate.login()
 
-        with open('category.json') as f:
-            category_data = json.loads(f.read())
+        [automate.create_brands(brand['name'],brand['file']) for brand in json.loads(open('brand.json','rb').read())]
 
-        for category in category_data:
-            id_cat = create_categories(category['name_category'])
+        for category in json.loads(open('category.json','rb').read()):
+            id_cat = automate.create_categories(category['name_category'])
             for sub_category in category['sub_categories']:
-                id_sub_cat = create_sub_categories(id_cat,sub_category['name_sub_category'])
+                id_sub_cat = automate.create_sub_categories(id_cat,sub_category['name_sub_category'])
                 for item_sub_category in sub_category['item_sub_categories']:
-                    create_item_sub_categories(id_sub_cat,item_sub_category['name_item_sub_category'])
+                    automate.create_item_sub_categories(id_sub_cat,item_sub_category['name_item_sub_category'])
 
-        with open('products.json') as f:
-            product_data = json.loads(f.read())
-
-        for product in product_data:
-            ticket = create_variants(product['variant'],product['product_data']['name'])
-            create_products(ticket,product['product_data'])
+        [automate.create_products(**product) for product in json.loads(open('product.json','rb').read())]

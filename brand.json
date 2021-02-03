@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Adidas",
+    "file": "adidas.png"
+  },
+  {
+    "name": "Billabong",
+    "file": "bilabong.png"
+  },
+  {
+    "name": "Converse",
+    "file": "converse.png"
+  },
+  {
+    "name": "Deus",
+    "file": "deus.png"
+  },
+  {
+    "name": "Gap",
+    "file": "gap.png"
+  },
+  {
+    "name": "Giordano",
+    "file": "giordano.png"
+  },
+  {
+    "name": "Nike",
+    "file": "nike.png"
+  },
+  {
+    "name": "Uniqlo",
+    "file": "uniqlo.png"
+  }
+]
