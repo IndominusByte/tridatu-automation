@@ -3,135 +3,580 @@
     "variant": {
       "va1_items": [
         {
-          "va1_price": 75000,
+          "va1_price": 168000,
           "va1_stock": 1,
           "va1_code": "1271521-899-SM",
           "va1_barcode": "889362033471"
         }
       ]
     },
+    "wholesale": {
+      "items": [
+        {
+          "min_qty": 2,
+          "price": 165000
+        },
+        {
+          "min_qty": 5,
+          "price": 160000
+        },
+        {
+          "min_qty": 15,
+          "price": 150000
+        },
+        {
+          "min_qty": 25,
+          "price": 140000
+        }
+      ]
+    },
     "product_data": {
-      "name": "KEMEJA LAPANGAN / KEMEJA PDL / KEMEJA OUTDOOR",
-      "desc": "aaaaaaaaaaaaaaaaaaaa",
+      "name": "Kaos Baju T shirt Land Rover Hue 166",
+      "desc": "Deskripsi Kaos Baju T shirt Land Rover Hue 166 - S\nHUE 166 (aka 'Huey') carries chassis number LR1 and is the oldest Land Rover in the world - although it was chassis number three that went on display at the Amsterdam motor show on April 30, 1948\n\nUnisex T shirt\n**Size Chart **\nS : 47 x67 cm\nM : 50 x 73 cm\nL : 53 x 75 cm\nXL : 56 X 77 cm\nXXL : 59 x 79 cm\nToleransi = +/- 1-2 cm\n\n**Design:**\nGrafis didesain personal , limited dan ikonik\nFreedom, Rebellion, Motorcycle and Rock and Roll\n\nDeskripsi Bahan :\n• Ring-spun cotton\n• High Quality Premium Cotton\n• Pre-shrunk\n• Quarter-turned stitch sehingga kaos terhindar dari melipat/tertarik di bagian tengah\n\nSmart Clothing for Everyday Stylish Living,\nBrowse and Shop Now",
       "condition": true,
-      "weight": 500,
+      "weight": 300,
       "preorder": null,
       "item_sub_category_id": 3,
-      "brand_id": 1
+      "brand_id": 1,
+      "video": "https://www.youtube.com/embed/hT_nvWreIhg",
+      "image_product": ["1.jpeg","2.jpeg","3.jpeg","4.jpeg"],
+      "image_size_guide": "size-guide.jpg"
     }
   },
   {
     "variant": {
-      "va1_name": "Ukuran",
+      "va1_name": "Warna",
       "va1_items": [
         {
-          "va1_option": "39",
-          "va1_price": 217000,
-          "va1_stock": 1
+          "va1_option": "Merah",
+          "va1_price": 120000,
+          "va1_stock": 30,
+          "va1_code": "AN-MERAH",
+          "va1_barcode": "12378932193"
         },
         {
-          "va1_option": "40",
-          "va1_price": 370000,
-          "va1_stock": 10
+          "va1_option": "Hitam",
+          "va1_price": 140000,
+          "va1_stock": 10,
+          "va1_code": "AN-HITAM",
+          "va1_barcode": null
         },
         {
-          "va1_option": "41",
-          "va1_price": 124000,
-          "va1_stock": 1
+          "va1_option": "Putih",
+          "va1_price": 125000,
+          "va1_stock": 11,
+          "va1_code": "AN-PUTIH",
+          "va1_barcode": "32983299999"
+        },
+        {
+          "va1_option": "Kuning",
+          "va1_price": 165000,
+          "va1_stock": 2,
+          "va1_code": "AN-KUNING",
+          "va1_barcode": null
         }
       ]
     },
+    "wholesale": {
+      "items": []
+    },
     "product_data": {
-      "name": "PAULMAY Sepatu Formal Pria Modena 01 - Hitam",
-      "desc": "aaaaaaaaaaaaaaaaaaaa",
+      "name": "Kaos Baju Anime Jepang Henta Ice Cream Kaos Anime",
+      "desc": "Deskripsi Kaos Baju Anime Jepang Henta Ice Cream Kaos Anime - Karimake\nSelamat datang di toko Kaos KARIMAKE\n\nSetiap barang yang berada di etalase berarti READY STOCK\n\nKami menerima Dropshipper dan Reseller ya kak\n\nBahan 100% Cotton, Combed 30s\nSablon : Polyflex , kuat dan halus\n\nReady Size : S, M, L, XL, XXL\nS : 66 X 48 cm\nM : 68 X 50 cm\nL : 70 X 52 cm\nXL : 72 x 54 cm\nXXL : 74x 56 cm\n\nWarna : Hitam, Putih, Merah, Marun, Biru, Biru Navy / Dongker, Biru Turkis, Hijau, Kuning, Oranye, Pink dan Abu Misty\n\n\"Jangan lupa untuk mengukur baju yang ingin anda beli dan sesuaikan dengan ukuran dari kita, agar kaos sesuai dengan harapan kita\"\n\nSelamat Berbelanja.\n\nSalam dari Kami.\n\n#KaosPria #KaosWanita #KaosMurah #KaosKatun #KaosGaul #KaosKeren #PakaianPria #PakaianKeren #PAkaianGaul #Bajukekinian #bajupria #bajukeren\n#KaosMurah #PakaianMurah #kekinian",
       "condition": false,
-      "weight": 1000,
-      "preorder": 20,
-      "item_sub_category_id": 1,
-      "brand_id": null
+      "weight": 900,
+      "preorder": 5,
+      "item_sub_category_id": 20,
+      "brand_id": null,
+      "video":"https://www.youtube.com/embed/Ugkbzm9fnqk",
+      "image_product": ["22.jpeg","23.jpeg","7.jpeg","8.jpeg","11.jpeg","13.jpeg"],
+      "image_variant": ["8.jpeg","7.jpeg","6.jpeg","5.jpeg"],
+      "image_size_guide": null
     }
   },
   {
     "variant": {
-      "va1_name": "Ukuran",
-      "va2_name": "Warna",
+      "va1_name": "Warna",
+      "va2_name": "Size",
       "va1_items": [
         {
-          "va1_option": "64GB",
+          "va1_option": "Biru",
           "va2_items": [
             {
-              "va2_option": "Hitam",
-              "va2_price": 7075000,
-              "va2_stock": 2
+              "va2_option": "S",
+              "va2_price": 40000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
             },
             {
-              "va2_option": "Red",
-              "va2_price": 7075000,
-              "va2_stock": 2
+              "va2_option": "M",
+              "va2_price": 40000,
+              "va2_stock": 0,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 50000,
+              "va2_stock": 80,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 60000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
             }
           ]
         },
         {
-          "va1_option": "256GB",
+          "va1_option": "Merah",
           "va2_items": [
             {
-              "va2_option": "Hitam",
-              "va2_price": 8175000,
-              "va2_stock": 2
+              "va2_option": "S",
+              "va2_price": 40000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
             },
             {
-              "va2_option": "Red",
-              "va2_price": 8175000,
-              "va2_stock": 2
+              "va2_option": "M",
+              "va2_price": 40000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 50000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 60000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
             }
           ]
         },
         {
-          "va1_option": "512GB",
+          "va1_option": "Hitam",
           "va2_items": [
             {
-              "va2_option": "Hitam",
-              "va2_price": 8175000,
-              "va2_stock": 2
+              "va2_option": "S",
+              "va2_price": 30000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
             },
             {
-              "va2_option": "Red",
-              "va2_price": 8175000,
-              "va2_stock": 2
+              "va2_option": "M",
+              "va2_price": 40000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 50000,
+              "va2_stock": 0,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 60000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Kuning",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 40000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 40000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 40000,
+              "va2_stock": 80,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 40000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Putih",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 40000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 40000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 60000,
+              "va2_stock": 80,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 70000,
+              "va2_stock": 80,
+              "va2_code": "CONVERSE-3OS",
+              "va2_barcode": null
             }
           ]
         }
       ]
     },
+    "wholesale": {
+      "items": []
+    },
     "product_data": {
-      "name": "IPHONE XR ",
-      "desc": "aaaaaaaaaaaaaaaaaaaa",
+      "name": "KAOS T-SHIRT DISTRO CONVERSE",
+      "desc": "Deskripsi KAOS T-SHIRT DISTRO CONVERSE\nSize.S.M.L.XL\n\nspec\nBahan tdk panas, lembut & nyaman dipakai\n100% COTTON -- 100% MAX HANDSOME\nSablon polyflex printing\n\nsize chart\nS : Lebar 41cm - Panjang 63cm\nM : Lebar 44cm - Panjang 65cm\nL : Lebar 50cm - Panjang 69cm\nXL : Lebar 54cm - Panjang 71cm\n\npilihan warna : SMLXL\n\ndasar polos :\nBIRU BENHUR\nMERAH MARUN\nHITAM\nBIRU TURKIS\nABU MISTY\nNAVY\nPUTIH\nABU GELAP\nTOSCA\nMERAH CABE\nBIRU MUDA\nPINK MUDA (BABY)\nHIJAU\nPINK FANTA\n\ndasar misty :\nabu misty\nbenhur misty\nturkish misty\nmerah misty\nmarun misty\nhitam misty\n\n\nNOTE :\nmasukkan keterangan ukuran dan warna yang dipilih di kolom keterangan",
       "condition": true,
       "weight": 500,
       "preorder": null,
-      "item_sub_category_id": 2,
-      "brand_id": null
+      "item_sub_category_id": 5,
+      "brand_id": 2,
+      "video": "https://www.youtube.com/embed/Rr89LafnGKI",
+      "image_product": ["17.jpeg","18.jpeg","19.jpeg"],
+      "image_variant": ["13.jpeg","11.jpeg","12.jpeg","20.jpeg","14.jpeg"],
+      "image_size_guide": null
     }
   },
   {
     "variant": {
+      "va1_name": "Warna",
       "va1_items": [
         {
-          "va1_price": 11000,
-          "va1_stock": 0,
-          "va1_code": "1271521-899-SM",
-          "va1_barcode": "889362033471"
+          "va1_option": "Merah",
+          "va1_price": 100000,
+          "va1_stock": 50,
+          "va1_code": "KODE-30-EMBED",
+          "va1_barcode": "3473423432"
+        },
+        {
+          "va1_option": "Hitam",
+          "va1_price": 100000,
+          "va1_stock": 50,
+          "va1_code": "KODE-30-EMBED",
+          "va1_barcode": "6543423432"
+        }
+      ]
+    },
+    "wholesale": {
+      "items": [
+        {
+          "min_qty": 2,
+          "price": 98000
+        },
+        {
+          "min_qty": 5,
+          "price": 90000
+        },
+        {
+          "min_qty": 15,
+          "price": 80000
+        },
+        {
+          "min_qty": 25,
+          "price": 78000
         }
       ]
     },
     "product_data": {
-      "name": "iphone XR Tempered Glass Anti Spy for privacy",
-      "desc": "aaaaaaaaaaaaaaaaaaaa",
+      "name": "BAJU KAOS PRIA COTTON 30s, FASHION CASUAL PRIA BAJU DISTRO",
+      "desc": "Deskripsi BAJU KAOS PRIA COTTON 30s, FASHION CASUAL PRIA BAJU DISTRO 015 - gambar 1, M\nCantumkan ukuran (size) diketerangan\n\nPerhatikan size chart dan warna bahan sebelum order\n\n**MATERIAL YANG KAMI GUNAKAN**\n\n-KAOS/T SHIRT\nKatun combat 30's\ndengan kerapihan jahitan yg sempurna,halus dan lembut, tdk panas saat di kenakan dan mudah menyerap keringat\n\n=-SABLON-=\nflock-polyflex\nhasil sablon yg sangat luar biasa sempurna,tdk pecah,tdk berkerut dan awet ketika telah menempel di material.\n\n*--SIZE CHART--*(Lokal/Asia)\n(Lebar dada x Panjang badan)\n\nKAOS/T SHIRT\nM ~:49x69\nL ~ :52x73\nXL~:54x75\n\nHappy Shopping~",
       "condition": false,
       "weight": 2,
       "preorder": null,
       "item_sub_category_id": 1,
-      "brand_id": null
+      "brand_id": 4,
+      "video": null,
+      "image_product": ["25.jpeg","26.jpeg"],
+      "image_variant": [],
+      "image_size_guide": null
+    }
+  },
+  {
+    "variant": {
+      "va1_name": "Warna",
+      "va2_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "Hitam",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 150000,
+              "va2_stock": 50,
+              "va2_code": "30-EMBED",
+              "va2_barcode": "3473423432"
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 150000,
+              "va2_stock": 50,
+              "va2_code": "30-EMBED",
+              "va2_barcode": "3473423432"
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 150000,
+              "va2_stock": 50,
+              "va2_code": "30-EMBED",
+              "va2_barcode": "3473423432"
+            }
+          ]
+        },
+        {
+          "va1_option": "Merah",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 150000,
+              "va2_stock": 50,
+              "va2_code": "30-EMBED",
+              "va2_barcode": "3473423432"
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 150000,
+              "va2_stock": 50,
+              "va2_code": "30-EMBED",
+              "va2_barcode": "3473423432"
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 150000,
+              "va2_stock": 50,
+              "va2_code": "30-EMBED",
+              "va2_barcode": "3473423432"
+            }
+          ]
+        },
+        {
+          "va1_option": "Putih",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 150000,
+              "va2_stock": 50,
+              "va2_code": "30-EMBED",
+              "va2_barcode": "3473423432"
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 150000,
+              "va2_stock": 50,
+              "va2_code": "30-EMBED",
+              "va2_barcode": "3473423432"
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 150000,
+              "va2_stock": 50,
+              "va2_code": "30-EMBED",
+              "va2_barcode": "3473423432"
+            }
+          ]
+        }
+      ]
+    },
+    "wholesale": {
+      "items": [
+        {
+          "min_qty": 2,
+          "price": 118000
+        },
+        {
+          "min_qty": 5,
+          "price": 110000
+        },
+        {
+          "min_qty": 15,
+          "price": 108000
+        },
+        {
+          "min_qty": 25,
+          "price": 107000
+        }
+      ]
+    },
+    "product_data": {
+      "name": "Jelove - Kaos T-Shirt Distro / Tshirt Pria Wanita/TM-Misty",
+      "desc": "Deskripsi Jelove - Kaos T-Shirt Distro / Tshirt Pria Wanita/TM-Misty - S\nSELAMAT DATANG DI JELOVE.CLO\nToko Kaos Lengkap Murah dan Kualitas Distro\n\nDesign Yang simple dan Trendy, Sangat Nyaman untuk digunakan. Terbuat dari bahan soft katun, yang tidak panas digunakan. Didesain untuk Fit body, Motif sablon bagus dan tidak mudah luntur atau pecah pecah. Bahan melar sehingga bisa mengikuti bentuk tubuh.\n\nSpesifikasi Produk:\n- Bahan Adem dan Mudah menyerap keringat, halus dan tidak berbulu\n- Jahitan rantai pada Pundak\n- Jahitan Overdeck Rapi pada tepi Tangan dan Bawah kaos( Benangtiga)\n- Nyaman dipakai saat santai\n- Sablon Polyflex High Quality For Distro\n- Use Man & Women\n- Lokal size , Harap menaikan ukuran 1 size ( yang biasa pakai S, Harap Pesan size M)\n\nSize ( Lebar dada x Panjang ) :\nS ( 41 cm x 61 cm)\nM ( 44 cm x 64 cm )\nML ( 47 cm x 67 cm )\nL ( 50 cm x 70 cm)\nXL ( 52 cm x 72 cm)\n\nKenapa Harus beli di Jelove.clo ?\n1. Asli Produk Dalam Negeri\n2. Harga kami lebih Murah dibandingkan Kompetitor yang lain\n3. Kami memiliki designer gambar pribadi sehingga gambar kaos dijamin tidak pasaran.\n3. Bisa beli satuan, dan bias campur warna dan ukuran\n4. Bisa beli Grosir ,diatas 12 Pcs dapat potongan Harga 1000/pcs\n5. Produksi oleh konveksi sendiri, sehingga harga menjadi sangat kompetitif\n\nHarap diperhatikan :\n- Demi kemudahan dan kecepatan pengiriman barang, sebelum melakukan pemesanan harap konfirmasi terlebih dahulu melalui diskusi atau chat untuk mengecek stok barang\n- Tidak memberikan keterangan warna dan ukuran order, akan kami Tanya terlebih dahulu, jika tidak menjawabakan kami kirim pesanan anda secara random/acak.\n- Pemesanan menggunakan via Gojek , Last Pick up jam 14.30 WIB, order lewat dari Jam 14.30\n\nContact us\nvia chat / diskusi produk\nJam operasional\n08.30 - 17.30 wib\n\nHappy shopping Gan / Sista.........",
+      "condition": true,
+      "weight": 234,
+      "preorder": null,
+      "item_sub_category_id": 41,
+      "brand_id": 3,
+      "video": null,
+      "image_product": ["14.jpeg"],
+      "image_variant": ["11.jpeg","12.jpeg","21.jpeg"],
+      "image_size_guide": "size-guide.jpg"
+    }
+  },
+  {
+    "variant": {
+      "va1_name": "Warna",
+      "va2_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "Hitam",
+          "va2_items": [
+            {
+              "va2_option": "M",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            },
+            {
+              "va2_option": "XXL",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            }
+          ]
+        },
+        {
+          "va1_option": "Putih",
+          "va2_items": [
+            {
+              "va2_option": "M",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            },
+            {
+              "va2_option": "XXL",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            }
+          ]
+        },
+        {
+          "va1_option": "Merah",
+          "va2_items": [
+            {
+              "va2_option": "M",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            },
+            {
+              "va2_option": "XXL",
+              "va2_price": 265000,
+              "va2_stock": 10,
+              "va2_code": null,
+              "va2_barcode": "12383273"
+            }
+          ]
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    },
+    "product_data": {
+      "name": "Kaos Maroon Enjoy the Pleasure/ Baju Distro Pria Keren Grosir Murah",
+      "desc": "Deskripsi Kaos Maroon Enjoy the Pleasure/ Baju Distro Pria Keren Grosir Murah\nKETERANGAN LENGKAP DI BAWAH (MOHON DIBACA SEBELUM ORDER)\n\n*Ukuran :\n- All Size (Fit to L), Dada 98 - 100cm\n- Lebar 50cm panjang 70cm\n\n*Kualitas :\n- Import, jahitan double stick\n- Bahan Cotton Combat 30S (serap keringat dan tidak panas)\n\n*Note :\n- Untuk kondisi barang asli baik warna, ukuran dan bentuk sesuai dengan foto\n- Silahkan ditanyakan terlebih dahulu untuk ketersediaan barang dan stok yang diinginkan.\n\nAyo kunjungi toko kami Hobikaos20 untuk model lainnya ya\nSelamat Berbelanja!",
+      "condition": false,
+      "weight": 200,
+      "preorder": 12,
+      "item_sub_category_id": 41,
+      "brand_id": 3,
+      "video": null,
+      "image_product": ["10.jpeg"],
+      "image_variant": ["11.jpeg","12.jpeg","14.jpeg"],
+      "image_size_guide": "size-guide.jpg"
     }
   }
 ]
