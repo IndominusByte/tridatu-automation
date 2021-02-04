@@ -579,5 +579,71 @@
     "wholesale": {
       "items": []
     }
+  },
+  {
+    "product_data": {
+      "name": "Variant 2 Pleasure/ Baju Distro Pria Keren Grosir Murah",
+      "desc": "Deskripsi Kaos Maroon Enjoy the Pleasure/ Baju Distro Pria Keren Grosir Murah\nKETERANGAN LENGKAP DI BAWAH (MOHON DIBACA SEBELUM ORDER)\n\n*Ukuran :\n- All Size (Fit to L), Dada 98 - 100cm\n- Lebar 50cm panjang 70cm\n\n*Kualitas :\n- Import, jahitan double stick\n- Bahan Cotton Combat 30S (serap keringat dan tidak panas)\n\n*Note :\n- Untuk kondisi barang asli baik warna, ukuran dan bentuk sesuai dengan foto\n- Silahkan ditanyakan terlebih dahulu untuk ketersediaan barang dan stok yang diinginkan.\n\nAyo kunjungi toko kami Hobikaos20 untuk model lainnya ya\nSelamat Berbelanja!",
+      "condition": false,
+      "weight": 200,
+      "preorder": 12,
+      "item_sub_category_id": 41,
+      "brand_id": 3,
+      "video": null,
+      "image_product": ["14.jpeg"],
+      "image_variant": ["11.jpeg","12.jpeg"],
+      "image_size_guide": "size-guide.jpg"
+    },
+    "variant": {
+      "va1_name": "Warna",
+      "va2_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "Merah",
+          "va2_items": [
+            {
+              "va2_id": 53,
+              "va2_option": "S",
+              "va2_price": 150000,
+              "va2_stock": 4,
+              "va2_code": "a",
+              "va2_barcode": "q"
+            },
+            {
+              "va2_id": 54,
+              "va2_option": "M",
+              "va2_price": 160000,
+              "va2_stock": 32,
+              "va2_code": "s",
+              "va2_barcode": "w"
+            }
+          ]
+        },
+        {
+          "va1_option": "Hitam",
+          "va2_items": [
+            {
+              "va2_id": 55,
+              "va2_option": "S",
+              "va2_price": 180000,
+              "va2_stock": 43,
+              "va2_code": "d",
+              "va2_barcode": "e"
+            },
+            {
+              "va2_id": 56,
+              "va2_option": "M",
+              "va2_price": 190000,
+              "va2_stock": 89,
+              "va2_code": "f",
+              "va2_barcode": "r"
+            }
+          ]
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
   }
 ]
