@@ -602,7 +602,6 @@
           "va1_option": "Merah",
           "va2_items": [
             {
-              "va2_id": 53,
               "va2_option": "S",
               "va2_price": 150000,
               "va2_stock": 4,
@@ -610,7 +609,6 @@
               "va2_barcode": "q"
             },
             {
-              "va2_id": 54,
               "va2_option": "M",
               "va2_price": 160000,
               "va2_stock": 32,
@@ -623,7 +621,6 @@
           "va1_option": "Hitam",
           "va2_items": [
             {
-              "va2_id": 55,
               "va2_option": "S",
               "va2_price": 180000,
               "va2_stock": 43,
@@ -631,7 +628,6 @@
               "va2_barcode": "e"
             },
             {
-              "va2_id": 56,
               "va2_option": "M",
               "va2_price": 190000,
               "va2_stock": 89,
