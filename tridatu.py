@@ -106,7 +106,13 @@ class Automation:
 
 
 if __name__ == '__main__':
-    base_address = "http://{}:8000".format(input("Input your ip address: "))
+    environtment = input("Local/Prod: ")
+    if environtment.lower() == 'local':
+        base_address = "http://{}:8000".format(input("Input your ip address: "))
+    elif environtment.lower() == 'prod':
+        base_address = "https://backend.mentimun-mentah.tech"
+    else:
+        exit(1)
 
     with console.status("[bold green]Working on tasks...") as status:
         automate = Automation(base_address=base_address)
