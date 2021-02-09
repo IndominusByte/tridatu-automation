@@ -1,4 +1,4 @@
-import requests, json
+import requests, json, sys
 from time import sleep
 from rich.console import Console
 
@@ -104,9 +104,20 @@ class Automation:
         console.log('[green]products [blue]{}[/blue] complete[/green], message: {}'.format(data['name'],res.json()['detail']))
         sleep(self.time_sleep)
 
+    def get_products_id(self) -> list:
+        url = self.base_address + '/products/all-products'
+        res = self.session.get(url + '?page=1&per_page=100')
+        return [(x['products_id'],x['products_name']) for x in res.json()['data']]
+
+    def set_alive_products(self,id_: int, name: str) -> None:
+        url = self.base_address + '/products/alive-archive/'
+        res = self.session.put(url + str(id_),headers={'X-CSRF-TOKEN': self.csrf_access_token})
+        console.log('[green]products-alive [blue]{}[/blue] complete[/green], message: {}'.format(name,res.json()['detail']))
+        sleep(self.time_sleep)
+
 
 if __name__ == '__main__':
-    environtment = input("Local/Prod: ")
+    environtment = sys.argv[1]
     if environtment.lower() == 'local':
         base_address = "http://{}:8000".format(input("Input your ip address: "))
     elif environtment.lower() == 'prod':
@@ -128,3 +139,5 @@ if __name__ == '__main__':
                     automate.create_item_sub_categories(id_sub_cat,item_sub_category['name_item_sub_category'])
 
         [automate.create_products(**product) for product in json.loads(open('product.json','rb').read())]
+
+        [automate.set_alive_products(id_,name) for id_,name in automate.get_products_id()]
