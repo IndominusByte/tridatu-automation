@@ -1,2 +1,2 @@
 #/bin/bash
-docker build . -t tridatu-automation
+docker build . -t restapi_automation
