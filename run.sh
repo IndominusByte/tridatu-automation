@@ -1,2 +1,2 @@
 #/bin/bash
-docker run -v $(pwd):/app -it restapi_automation $1
+docker run -v $(pwd):/app -i restapi_automation $1
