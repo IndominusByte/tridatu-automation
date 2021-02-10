@@ -26,19 +26,19 @@
     "wholesale": {
       "items": [
         {
-          "min_qty": 2,
+          "min_qty": 10,
           "price": 165000
         },
         {
-          "min_qty": 5,
+          "min_qty": 30,
           "price": 160000
         },
         {
-          "min_qty": 15,
+          "min_qty": 40,
           "price": 150000
         },
         {
-          "min_qty": 25,
+          "min_qty": 50,
           "price": 140000
         }
       ]
@@ -320,20 +320,16 @@
     "wholesale": {
       "items": [
         {
-          "min_qty": 2,
+          "min_qty": 7,
           "price": 98000
         },
         {
-          "min_qty": 5,
+          "min_qty": 14,
           "price": 90000
         },
         {
-          "min_qty": 15,
+          "min_qty": 21,
           "price": 80000
-        },
-        {
-          "min_qty": 25,
-          "price": 78000
         }
       ]
     }
@@ -439,19 +435,11 @@
     "wholesale": {
       "items": [
         {
-          "min_qty": 2,
-          "price": 118000
-        },
-        {
-          "min_qty": 5,
-          "price": 110000
-        },
-        {
-          "min_qty": 15,
+          "min_qty": 12,
           "price": 108000
         },
         {
-          "min_qty": 25,
+          "min_qty": 16,
           "price": 107000
         }
       ]
