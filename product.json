@@ -629,5 +629,1346 @@
     "wholesale": {
       "items": []
     }
+  },
+  {
+    "product_data": {
+      "name": "Variant 1 - Limited Edition T-shirt 'BARBER SUPPLY' By Folti Baffi",
+      "desc": "Special Merchandise T-shirt 'BARBER SUPPLY' Limited Edition By Folti Baffi\n\nSize:\n\nSmall: 46 X 69\nMedium: 50 X 73\nLarge: 56 X 75\nXLarge: 61 X 79\nXXLarge: 66 X 82",
+      "condition": true,
+      "weight": 700,
+      "preorder": 10,
+      "item_sub_category_id": 20,
+      "brand_id": 5,
+      "video": null,
+      "image_product": ["27.jpg"],
+      "image_variant": ["28.jpg","29.jpg"],
+      "image_size_guide": null
+    },
+    "variant": {
+      "va1_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "S",
+          "va1_price": 300000,
+          "va1_stock": 50,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "M",
+          "va1_price": 300000,
+          "va1_stock": 50,
+          "va1_code": null,
+          "va1_barcode": null
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "Variant 2 - Kaos Distro Pria T-Shirt Pria Kaos Pria Astronaut Riding Vespa",
+      "desc": "Selamat datang di lapak Kami\nKami menyediakan koleksi kaos-kaos keren dan kekinian dengan harga murah, namun tidak murahan.\nBeli Eceran Dengan Harga Grosir\nBahan Katun\nHalus & Original 100%\nBahan Adem & Jahitan rapi\nGambar Sablon Rubber Sesuai Gambar\nJahitan Rantai\n\nUkuran L :\nPanjang : 66-70cm\nLebar : 47-50cm\nUkuran XL :\nPanjang 69-72cm\nLebar : 49-52cm\n\nSilahkan Langsung Diorder\n1Kg 6pcs\n\nNote : KAMI KIRIM SESUAI TRANSAKSI YANG DI ORDER,KEPUASAN BUYER PRIORITAS KAMI..\n\nHappy Shopping :)\nJual : Ecer & Grosir\n\nTerima kasih..\n\n#kaoscowok #kaosdistro #kaoskeren #kaosracing #kaosdistrojakarta #kaospejuangrupiah #kaosdistromurah #kaospria #kaosrantau #orangtua #kaosorangtua #kaosmotor #kaosbalap #distro #rxking #kaosmotor #kaoscasual",
+      "condition": true,
+      "weight": 200,
+      "preorder": null,
+      "item_sub_category_id": 5,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["30.jpeg"],
+      "image_variant": ["30.jpeg","31.jpg","32.jpg","33.jpg"],
+      "image_size_guide": null
+    },
+    "variant": {
+      "va1_name": "Warna",
+      "va2_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "Hitam",
+          "va2_items": [
+            {
+              "va2_option": "L",
+              "va2_price": 20250,
+              "va2_stock": 25,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 20250,
+              "va2_stock": 25,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Putih",
+          "va2_items": [
+            {
+              "va2_option": "L",
+              "va2_price": 20250,
+              "va2_stock": 25,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 20250,
+              "va2_stock": 25,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Abu-abu",
+          "va2_items": [
+            {
+              "va2_option": "L",
+              "va2_price": 20250,
+              "va2_stock": 25,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 20250,
+              "va2_stock": 25,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Navi",
+          "va2_items": [
+            {
+              "va2_option": "L",
+              "va2_price": 20250,
+              "va2_stock": 25,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 20250,
+              "va2_stock": 25,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "Variant 1 - VENGOZ Kemeja Flanel Pria - Salton Flannel Shirt",
+      "desc": "PROUD TO WEAR LOCAL BRAND\n100% BAHAN ORIGINAL EXPORT\nADA HARGA ADA KUALITAS!\nKualitas bahan dan kerapihan jahitan setara dengan brand2 dept store\nKami menggunakan vendor konveksi yang sudah berpengalaman di brand2 international\n\nKemeja Flanel Pria VENGOZ\nKode : KMFL111\nSize Yang Tersedia Sesuai Varian Produk\n\n- Flannel\n- Original 100%\n- Model Slim Fit\n- Size Lokal\n- Nyaman Dipakai\n\nsize Lebar dada x panjang\nM = 50x71 cm\nL = 53x73 cm\nXL = 55x75 cm\n\nMohon memilih SIZE yang diinginkan di varian produk saat order agar tidak terjadi kesalahan pengiriman.\nUntuk mempercepat proses pemesanan tanpa menunggu balasan dari admin soal pertanyaan ready stock atau tidak?\nLangsung aja order sesuai size yang tersedia di varian produk, jika bisa diklik berarti ready stock yah..\n\nStock di update tiap hari guys!\n( jika ingin pesan 2pc barang yang sama beda size bisa ditulis di catatan atau dibeli 2x dan pilih varian yang berbeda)\n\nWHAT U SEE IS WHAT U GET !!\nSemua foto produk kami adalah asli foto sendiri menggunakan studio foto dan model professional, bukan main copas dari google.\nDijamin produk yang anda terima sesuai yang anda lihat.\nDilarang menggunakan foto produk kami tanpa izin",
+      "condition": true,
+      "weight": 250,
+      "preorder": null,
+      "item_sub_category_id": 3,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["35.jpeg","34.jpeg","36.jpeg","37.jpeg"],
+      "image_variant": [],
+      "image_size_guide": "size-guide.jpg"
+    },
+    "variant": {
+      "va1_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "M",
+          "va1_price": 145000,
+          "va1_stock": 30,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "L",
+          "va1_price": 145000,
+          "va1_stock": 30,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "XL",
+          "va1_price": 145000,
+          "va1_stock": 30,
+          "va1_code": null,
+          "va1_barcode": null
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "Variant 2 - kemeja flanel wanita old navy 100% Original | Kemeja jumbo",
+      "desc": "Kemeja Flanel Boyfriend shirtOld Navy 🥳\n\nDIJAMIN 100% Original Full Label , WASHING TAG AMAN !! Cocok Buat Dijadiin GIFT ya say 🥰🥰 and plus Bahannya halus, tebal tapi gak bikin gerah sama sekali 🥰 ‼️\n\nSize Chart\nPanjang x Lebar Dada\nXS : 69 x 54 cm\nS : 71 x 56 cm\nM : 72 x 58 cm\nL : 73 x 62 cm\nXL : 74 x 69 cm\n2XL : 74 x 74 cm\n\nDicounter Harganya bisa 300an 💸💸\nOUR PRICE ONLY\nBuy 1 95,000/pcs ‼️\nBuy 3 80,000/pcs (HEMAT 45K) ‼️",
+      "condition": true,
+      "weight": 400,
+      "preorder": null,
+      "item_sub_category_id": 17,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["38.jpg","42.jpg","39.jpg"],
+      "image_variant": ["40.jpg","41.jpg","43.jpg"],
+      "image_size_guide": "size-guide.jpg"
+    },
+    "variant": {
+      "va1_name": "Warna",
+      "va2_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "Biru-putih",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XXL",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Merah-ijo",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XXL",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Merah-biru",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XXL",
+              "va2_price": 95000,
+              "va2_stock": 100,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        }
+      ]
+    },
+    "wholesale": {
+      "items": [
+        {
+          "min_qty": 3,
+          "price": 80000
+        }
+      ]
+    }
+  },
+  {
+    "product_data": {
+      "name": "Variant 1 - Kemeja H&M Basic Shirt White Original Cewek Wanita Putih Kerja Kantor",
+      "desc": "[READY STOCK]\nH&M Women Basic Shirt Longsleeve Blouse Original\nColour : White\n\nDetails :\nBlouse in soft woven fabric with a narrow collar, concealed buttons at front, and long sleeves with buttons at cuffs. Rounded hem.\nMaterial : 100% Polyester\n\n- FULL LABEL\n\nAvailable size : 32 34 36 40 44\nSize chart : [Lebar Dada X Panjang]\n32 : 45 x 63 cm\n34 : 47 x 64 cm\n36 : 49 x 65 cm\n38 : 51 x 68 cm (SOLD OUT)\n40 : 52 x 69 cm\n42 : 54 x 69 cm (SOLD OUT)\n44 : 56 x 71 cm\n46 : 58 x 73 cm (SOLD OUT)\n\nRetail / Store Price IDR 349.000\nOTOMO Price IDR 100.000\n\nharap menanyakan ketersediaan produk sebelum order\nThank you",
+      "condition": true,
+      "weight": 250,
+      "preorder": null,
+      "item_sub_category_id": 17,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["44.jpeg","45.jpeg","46.jpeg","47.jpeg"],
+      "image_variant": [],
+      "image_size_guide": "size-guide.jpg"
+    },
+    "variant": {
+      "va1_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "36",
+          "va1_price": 100000,
+          "va1_stock": 10,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "40",
+          "va1_price": 100000,
+          "va1_stock": 10,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "44",
+          "va1_price": 100000,
+          "va1_stock": 10,
+          "va1_code": null,
+          "va1_barcode": null
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "Variant 2 - Celana jeans standar wrangler pria",
+      "desc": "model: standar / regular\n\nmat: jeans denim tebal\n\nUkuran :\n28,29,30,31,32,33,34,35,36,37,38\n\nwarna sesuai :\n\n-Bio wosh\n-Hitam\n-Biru Dongker\n-Bio blitz\n-Grey\n-Coklat\n\nDetail ukuran :\nsize 28 Lp 74 cm\nsize 29 Lp 76 cm\nsize 30 Lp 79 cm\nsize 31 Lp 82 cm\nsize 32 Lp 85 cm\nsize 33 Lp 87 cm\nsize 34 Lp 90 cm\nsize 35 Lp 92 cm\nsize 36 Lp 95 cm\nsize 37 Lp 98 cm\nsize 38 Lp 101 cm\n\n\n\n️ Catatan :\n\n✔️ Saat order sebaiknya cantumkan Lingkar Pinggang Pemakai untuk menghindari kesalahan dalam pemilihan ukuran..\n\n✔️ Produk ini didesain untuk dapat dipakai dalam berbagai acara. Sangat nyaman saat dipakai sehingga dapat menunjang penampilan dan kepercayaan dirimu..",
+      "condition": true,
+      "weight": 700,
+      "preorder": null,
+      "item_sub_category_id": 9,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["48.jpg"],
+      "image_variant": ["49.jpg","53.jpg","50.jpg","52.jpg","51.jpg"],
+      "image_size_guide": "size-guide.jpg"
+    },
+    "variant": {
+      "va1_name": "Warna",
+      "va2_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "Hitam",
+          "va2_items": [
+            {
+              "va2_option": "28",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "29",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "30",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "31",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "32",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "33",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "34",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "35",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "36",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "37",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "38",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Abu-abu",
+          "va2_items": [
+            {
+              "va2_option": "28",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "29",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "30",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "31",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "32",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "33",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "34",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "35",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "36",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "37",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "38",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Biru Muda",
+          "va2_items": [
+            {
+              "va2_option": "28",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "29",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "30",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "31",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "32",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "33",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "34",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "35",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "36",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "37",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "38",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Bio Wosh",
+          "va2_items": [
+            {
+              "va2_option": "28",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "29",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "30",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "31",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "32",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "33",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "34",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "35",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "36",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "37",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "38",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Biru Dongker",
+          "va2_items": [
+            {
+              "va2_option": "28",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "29",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "30",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "31",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "32",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "33",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "34",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "35",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "36",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "37",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "38",
+              "va2_price": 85000,
+              "va2_stock": 200,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "Variant 1 - DAYA DRESS",
+      "desc": "!! Real Picture !!\nDARA DRESS\n\nIDR 155k\n\nBahan: Tencel premiun\n\nUkuran: All size fit to L\nLD 100\nPinggang 52-100 (full karet)\nPanjang 110-116 (belakang lebih panjang)\nFree belt (faux leather)\nKhusus warna putih ada furing di bagian bawah\n\nHappy shopping 🥰♥️\n\n#jualbajucewek #jualbaju #jualbajumurah #bajucewe #jualkemeja #kemejamurah #bajumurah #blazerset #jualblouse #jualblazer #blazerwanita #bajucewek #bajuimportmurah #jualdress #jualdressimport #jualdresskorea #bajukorea #jualkemejalinen #jualsetelan #jualbajinen #jualsetlinen #wearhtkt #htkt",
+      "condition": true,
+      "weight": 50,
+      "preorder": null,
+      "item_sub_category_id": 30,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["55.jpg"],
+      "image_variant": ["55.jpg","56.jpg","57.jpg","58.jpg"],
+      "image_size_guide": "size-guide.jpg"
+    },
+    "variant": {
+      "va1_name": "Warna",
+      "va1_items": [
+        {
+          "va1_option": "Putih",
+          "va1_price": 155000,
+          "va1_stock": 50,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "Coklat",
+          "va1_price": 155000,
+          "va1_stock": 50,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "Merah",
+          "va1_price": 155000,
+          "va1_stock": 50,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "Hijau",
+          "va1_price": 155000,
+          "va1_stock": 50,
+          "va1_code": null,
+          "va1_barcode": null
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "Variant 2 - Cardigan keren/cardigan topi",
+      "desc": "cardigan pria motif kupluk, nyaman dipakai dan hangat saat musim dingin karena dilapisi dengan Dacron pedding,yaitu bahan yg tebal dengan memakai busa, bahan luar menggunakan bahan yg lembut serta tebal dan tidak panas..\nproduk kami semua realfict/sesuai gambar, jahitannya juga rapi karena dijahit oleh penjahit berpengalaman, sehingga kualitas jahitan terjamin kerapihannya..\nkami sediakan ukuran M-XXL\nM 45-50kg\nL 55-60kg\nXL 65-70kg\nXXL 75-80kg\nEstimasi ukuran :\n M :, Lebar Dada 48CM, Panjang Lengan 55CM.     \nL :, Lebar Dada 50CM, Panjang 57CM.\nXL :, Lebar Dada 52CM, Panjang Lengan 59CM. \nXXL : Lebar Dada 54CM, Panjang Lengan 61CM\nsilahkan diorder😍😍\nHappy Shopping",
+      "condition": true,
+      "weight": 1500,
+      "preorder": null,
+      "item_sub_category_id": 22,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["59.jpg","60.jpg"],
+      "image_variant": ["61.jpg","62.jpg","59.jpg"],
+      "image_size_guide": "size-guide.jpg"
+    },
+    "variant": {
+      "va1_name": "Warna",
+      "va2_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "Hitam",
+          "va2_items": [
+            {
+              "va2_option": "M",
+              "va2_price": 250500,
+              "va2_stock": 150,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 250500,
+              "va2_stock": 150,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 250500,
+              "va2_stock": 150,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Navy",
+          "va2_items": [
+            {
+              "va2_option": "M",
+              "va2_price": 250500,
+              "va2_stock": 150,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 250500,
+              "va2_stock": 150,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 250500,
+              "va2_stock": 150,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Cream",
+          "va2_items": [
+            {
+              "va2_option": "M",
+              "va2_price": 250500,
+              "va2_stock": 150,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 250500,
+              "va2_stock": 150,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "XL",
+              "va2_price": 250500,
+              "va2_stock": 150,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "CELANA DALAM PUMA BOXER MEN ORIGINAL",
+      "desc": "Original sisa export korea\n\n\nLbr Pinggang\nS = 83cm\nM= 86cm\nL = 92cm\n\n\nsisa warna hitam\nNavy Size S aja",
+      "condition": true,
+      "weight": 60,
+      "preorder": null,
+      "item_sub_category_id": 13,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["63.jpg","64.jpg","65.jpg"],
+      "image_variant": [],
+      "image_size_guide": null
+    },
+    "variant": {
+      "va1_items": [
+        {
+          "va1_price": 45000,
+          "va1_stock": 60,
+          "va1_code": null,
+          "va1_barcode": null
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "celana boxer pria katun",
+      "desc": "*** warna kirim acak***\n\nBahan katun dan Berkualitas\n.\nNyaman digunakan, santai. Pinggang Stretch (Karet), Kantong bagian kiri dan kanan.\n-Manfaat: bahan tebal dan adem dipakai, cocok untuk digunakan santai\n.\nUkuran All Size\n-Lingkar pingang sampai 100 cm max\n- Panjang: 37.5cm\n\n.\nNb: Harap sertakan pilihan warna lain pada kolom catatan untuk penjual. Contoh : Hitam (alternatif: Navy)\n.\nSemua barang Ready Stock !\nPertanyaan lebih lanjut dapat ditanyakan didiskusi produk trimakasih.",
+      "condition": true,
+      "weight": 150,
+      "preorder": null,
+      "item_sub_category_id": 13,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["66.jpg"],
+      "image_variant": [],
+      "image_size_guide": null
+    },
+    "variant": {
+      "va1_items": [
+        {
+          "va1_price": 22000,
+          "va1_stock": 150,
+          "va1_code": null,
+          "va1_barcode": null
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "rok mini wanita import murah",
+      "desc": "Kode : 918\nWarna : Biru, Hitam\nUkuran : S (Lingkar pinggang 61, Panjang 80)\nUkuran : M (Lingkar pinggang 66, Panjang 84)\nUkuran ; L (Lingkar pinggang 70, Panjang 88)",
+      "condition": true,
+      "weight": 400,
+      "preorder": null,
+      "item_sub_category_id": 37,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["67.jpg"],
+      "image_variant": [],
+      "image_size_guide": null
+    },
+    "variant": {
+      "va1_items": [
+        {
+          "va1_price": 38888,
+          "va1_stock": 40,
+          "va1_code": "918",
+          "va1_barcode": null
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "Variant 2 - Korean Pleated Tennis Skirt / Rok Lipit",
+      "desc": "Korean Pleated Tennis Skirt / Rok Lipit C077\n\nBahan polyester import, premium quality, list asli\nPinggang ada karet, stretch, ada furing celana di bagian dalam\n\nWarna : Black, White, Navy\n\nDetail Size (cm) :\nXS : Lingkar Pinggang 60-64 (ada karet), Lingkar Pinggul 72, Panjang 35\nS : Lingkar Pinggang 64-68 (ada karet), Lingkar Pinggul 76, Panjang 36\nM : Lingkar Pinggang 68-72 (ada karet), Lingkar Pinggul 80 ,Panjang 37\nL : Lingkar Pinggang 72-76 (ada karet), Lingkar Pinggul 84, Panjang 38\nXL : Lingkar Pinggang 76-80 (ada karet), Lingkar Pinggul 88, Panjang 39\n\n\n#rokwanita #rokwanitamurah #roklipitmurah #rokwanitamurah #rokkorea #tennisskirt",
+      "condition": true,
+      "weight": 300,
+      "preorder": null,
+      "item_sub_category_id": 35,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["68.jpg","69.jpg","71.jpg","72.jpg"],
+      "image_variant": ["70.jpg","72.jpg"],
+      "image_size_guide": null
+    },
+    "variant": {
+      "va1_name": "Warna",
+      "va2_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "Putih",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 113000,
+              "va2_stock": 300,
+              "va2_code": "C077",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 113000,
+              "va2_stock": 300,
+              "va2_code": "C077",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 113000,
+              "va2_stock": 300,
+              "va2_code": "C077",
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Hitam",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 113000,
+              "va2_stock": 300,
+              "va2_code": "C077",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 113000,
+              "va2_stock": 300,
+              "va2_code": "C077",
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 113000,
+              "va2_stock": 300,
+              "va2_code": "C077",
+              "va2_barcode": null
+            }
+          ]
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "Blouse asuka kotak",
+      "desc": "bahan katun kotak motif asli fit to L LD102cm P50cm\ncolour : hitam\nmerah\nbiru\nukuran :all size",
+      "condition": true,
+      "weight": 250,
+      "preorder": null,
+      "item_sub_category_id": 16,
+      "brand_id": null,
+      "video": null,
+      "image_product": ["73.jpg"],
+      "image_variant": ["73.jpg","74.jpg","75.jpg"],
+      "image_size_guide": null
+    },
+    "variant": {
+      "va1_name": "Warna",
+      "va1_items": [
+        {
+          "va1_option": "Hitam",
+          "va1_price": 100000,
+          "va1_stock": 20,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "Biru",
+          "va1_price": 100000,
+          "va1_stock": 20,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "Merah",
+          "va1_price": 100000,
+          "va1_stock": 20,
+          "va1_code": null,
+          "va1_barcode": null
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "Variant 2 - tshirt polo - kaos kerah - baju ADIDAS GOLF",
+      "desc": "Bahan\nkaos :COMBAT 20s\nHoodie jumper/zipper:cotton fleece\nsweatshirt:cotton fleece\npolo :Lacoste cotton\nSablon :\nflock-Polyflec-Direct to Garment\ncolour chart:\nmerah,hitam,putih,abu-abu,biru(turkies,benhur,royal,navy,dongker),pink,hijau,kuning,ungu,orange\nsize chart :\n\nkaos\nS : Lebar dada 41 / Panjang 64\nM : Lebar dada 44 / Panjang 66\nL :lebar dada 49 / Panjang 70\nXL : Lebar dada 52 / panjang 73\nXXL : Lebar 54 / Panjang 74\n\nHOODIE SWEATER\nM : Lebar 51 / Panjang 58\nL : Lebar 53 / Panjang 65\nXL : Lebar 56 / Panjang 65\nXXL : Lebar 58 / Panjang 71\n\nPolo\nS : Lebar 41 / Panjang 64\nM : Lebar 44 / Panjang 66\nL : Lebar 47 / Panjang 71\nXL : Lebar 51 / Panjang 76\nXXL: lebar 55/ panjang 79",
+      "condition": true,
+      "weight": 250,
+      "preorder": null,
+      "item_sub_category_id": 2,
+      "brand_id": 1,
+      "video": null,
+      "image_product": ["76.jpg"],
+      "image_variant": ["77.jpg","78.jpg","79.jpg"],
+      "image_size_guide": null
+    },
+    "variant": {
+      "va1_name": "Warna",
+      "va2_name": "Ukuran",
+      "va1_items": [
+        {
+          "va1_option": "Putih",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 125000,
+              "va2_stock": 90,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 125000,
+              "va2_stock": 90,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 125000,
+              "va2_stock": 90,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Abu-abu",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 125000,
+              "va2_stock": 90,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 125000,
+              "va2_stock": 90,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 125000,
+              "va2_stock": 90,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        },
+        {
+          "va1_option": "Merah",
+          "va2_items": [
+            {
+              "va2_option": "S",
+              "va2_price": 125000,
+              "va2_stock": 90,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "M",
+              "va2_price": 125000,
+              "va2_stock": 90,
+              "va2_code": null,
+              "va2_barcode": null
+            },
+            {
+              "va2_option": "L",
+              "va2_price": 125000,
+              "va2_stock": 90,
+              "va2_code": null,
+              "va2_barcode": null
+            }
+          ]
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "kemeja Gap cozy Twill standart fit original",
+      "desc": "Kemeja gap cozy Twill standart fit original\n\nMade in Indonesia buat exsport\n\nSize : , XL,\n\nS : P X L ( 74CM X 54CM)KOSONG\n\n\nXL: P X L ( 81CM X 66CM)\n2XL: P X L( 89CM X 72CM) KOSONG",
+      "condition": true,
+      "weight": 350,
+      "preorder": null,
+      "item_sub_category_id": 3,
+      "brand_id": 5,
+      "video": null,
+      "image_product": ["80.jpg"],
+      "image_variant": [],
+      "image_size_guide": null
+    },
+    "variant": {
+      "va1_items": [
+        {
+          "va1_price": 185000,
+          "va1_stock": 90,
+          "va1_code": null,
+          "va1_barcode": null
+        }
+      ]
+    },
+    "wholesale": {
+      "items": []
+    }
+  },
+  {
+    "product_data": {
+      "name": "BAJU KAOS DEUS EX MACHINA COMBED'S PREMIUM",
+      "desc": "READY STOK KAOS DEUS EX MACHINA!\n\nBahan : Cotton combed 30s (adem dan nyaman)\nUnisex (bisa cewe & cowo)\nSize L\nLebar : 50 cm  Panjang : 68 cm\n\n📌MOHON MEMBACA KETERANGAN DI BAWAH SEBELUM MEMBELI.   \nMEMBELI=SETUJU✅\n\n•REAL PICT\n•PENGIRIMAN FAST 1X24 JAM RESI TERINPUT\n•MENERIMA DROPSHIP DAN RESELLER\n•BISA COD (Bayar di tempat)\n\nNote :\n• Mohon mengecek kembali ALAMAT dan PESANAN sebelum melakukan pembayaran, untuk menghindari keterlambatan dalam pengiriman.📍(Alamat yang lengkap)\n\n• Jika produk yang di terima tidak sesuai dan ingin mengajukan KOMPLAIN, silahkan langsung menghubungi admin di chat dan akan segera di bantu proses.\n\nBeli lusinan dapat harga lebih murah.\n\n#kaosdeus #deus #kaosdistro #kaosmurah #grosirkaos #bajumurah #kaospria #kaoswanita",
+      "condition": true,
+      "weight": 170,
+      "preorder": null,
+      "item_sub_category_id": 41,
+      "brand_id": 4,
+      "video": null,
+      "image_product": ["81.jpg"],
+      "image_variant": ["81.jpg","82.jpg"],
+      "image_size_guide": null
+    },
+    "variant": {
+      "va1_name": "Warna",
+      "va1_items": [
+        {
+          "va1_option": "Hitam",
+          "va1_price": 270000,
+          "va1_stock": 90,
+          "va1_code": null,
+          "va1_barcode": null
+        },
+        {
+          "va1_option": "Putih",
+          "va1_price": 270000,
+          "va1_stock": 90,
+          "va1_code": null,
+          "va1_barcode": null
+        }
+      ]
+    },
+    "wholesale": {
+      "items": [
+        {
+          "min_qty": 10,
+          "price": 260000
+        },
+        {
+          "min_qty": 30,
+          "price": 240000
+        }
+      ]
+    }
   }
 ]
