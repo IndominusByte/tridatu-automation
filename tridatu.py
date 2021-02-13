@@ -9,7 +9,7 @@ class Automation:
         self.session = requests.Session()
         self.base_address = base_address
         self.csrf_access_token = None
-        self.time_sleep = 0.1
+        self.time_sleep = 0.5
 
     def login(self,email: str = 'user@example.com', password: str = 'string') -> None:
         url = self.base_address + '/users/login'
