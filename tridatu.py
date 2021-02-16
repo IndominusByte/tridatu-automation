@@ -18,6 +18,12 @@ class Automation:
         console.log('[green]login complete[/green], message: {}'.format(res.json()['detail']))
         sleep(self.time_sleep)
 
+    def create_address(self,data_address: dict = json.loads(open('address.json','rb').read())) -> None:
+        url = self.base_address + '/address/create'
+        res = self.session.post(url,json=data_address,headers={'X-CSRF-TOKEN': self.csrf_access_token})
+        console.log('[green]add address complete[/green], message: {}'.format(res.json()['detail']))
+        sleep(self.time_sleep)
+
     def create_brands(self,name: str, file: str) -> None:
         url = self.base_address + '/brands/create'
         res = self.session.post(url,
@@ -128,6 +134,8 @@ if __name__ == '__main__':
     with console.status("[bold green]Working on tasks...") as status:
         automate = Automation(base_address=base_address)
         automate.login()
+
+        [automate.create_address() for x in range(20)]
 
         [automate.create_brands(brand['name'],brand['file']) for brand in json.loads(open('brand.json','rb').read())]
 
